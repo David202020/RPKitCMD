@@ -1,0 +1,20 @@
+name: RPKitCMD
+author: David2020xD
+api: 3.0.0-ALPHA9
+version: 1.0
+main: David202020/RPKitCMD
+
+command:
+	cmdname:wizard
+		description: get a wand
+		usage: /wizard
+	cmd2name:knight
+		description: recieve your armor/weapons
+		usage: /knight
+
+# Permissions 
+permissions:
+	cmdname.command:
+		default: true
+	cmd2name.command:
+		default: true
