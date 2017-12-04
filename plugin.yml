@@ -5,9 +5,9 @@ api:3.0.0-ALPHA9
 version:1.0
 main:David202020/RPKitCMD
 command
-	wizard:
-		description: get a wand
-		usage: /wizard
+	wizard
+		 get a wand
+	          /wizard
 		permission:rp.kit.wizard
 permissions
 	rp.kit.wizard:
