@@ -10,5 +10,5 @@ command
 	          /wizard
 		permission:rp.kit.wizard
 permissions
-	rp.kit.wizard:
+	rp.kit.wizard
 		default: true
