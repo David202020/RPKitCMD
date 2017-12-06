@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   RPKitCMD:
-    path: ""
+    path: "rpkitcmd"
 ...
